@@ -44,5 +44,25 @@ applications of Python. Below is an overview of the projects included in this re
 - Description: This code is a program that takes two numbers from the user, performs various arithmetic operations on them(addition, subtraction,
                multiplication, division, finding the remainder, and exponentiation) and displays the results.
 - Technologies used: IDLE and Atom.
+  
 ---
 
+### Contributing 
+If you are interested in contributing to any of the projects in this repository, please follow these
+guidelines:
+1. Fork the repository and create your branch from the main.
+2. Make your contributions.
+3. Ensure your code follows the project's coding standards.
+4. Test your changes thoroughly.
+5. Submit a pull request, clearly describing the changes you have made.
+
+---
+
+### License
+This repository is licensed under the MIT License.
+
+---
+
+### Contact 
+If you have any questions or feedback regarding any of the projects in this repository, feel
+free to contact me at sibiyalethukuthula04@gmail.com
