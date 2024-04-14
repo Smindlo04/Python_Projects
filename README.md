@@ -44,5 +44,5 @@ applications of Python. Below is an overview of the projects included in this re
 - Description: This code is a program that takes two numbers from the user, performs various arithmetic operations on them(addition, subtraction,
                multiplication, division, finding the remainder, and exponentiation) and displays the results.
 - Technologies used: IDLE and Atom.
-
+---
 
