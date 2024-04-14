@@ -29,3 +29,20 @@ applications of Python. Below is an overview of the projects included in this re
 - Description: This code is a user-friendly BMI(Body Mass Index) calculator with unit choice that allows the user to choose between using the metric
                system(kilograms and meters) or the imperial system(pounds and inches) to calculate their
                BMI and provide informative output.
+- Technologies used: IDLE and Atom.
+
+### 5. Project Name: Sum_Of_+Integers
+- Description: This code calculates the sum of all positive integers from 1 up to a specified number provided by the user.
+- Technologies used: IDLE and Atom.
+
+### 6. Project Name: Fish_Tank_Adviser
+- Description: This code is a fish tank adviser program that calculates water volume and suggest stocking density. Also provide
+               feeding information which is helpful.
+- Technologies used: IDLE and Atom.
+
+### 7. Project Name: Simple_Calculator
+- Description: This code is a program that takes two numbers from the user, performs various arithmetic operations on them(addition, subtraction,
+               multiplication, division, finding the remainder, and exponentiation) and displays the results.
+- Technologies used: IDLE and Atom.
+
+
