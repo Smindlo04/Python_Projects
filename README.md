@@ -1,4 +1,4 @@
-### Python Projects 
+# Python Projects 
 
 Welcome to my Python projects folder! This repository contains a variety of Python projects 
 showcasing different aspects of Python programming, ranging from simple scripts to more
@@ -7,7 +7,7 @@ applications of Python. Below is an overview of the projects included in this re
 
 ---
 
-### Project List:
+# Project List:
 ### 1. Project Name: Number_Operations
 - Description: This program is a code that takes user input, performs calculations and displays the results.
                The user inputs different types of values (strings, integers, decimals) and the appropriate
