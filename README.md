@@ -9,7 +9,7 @@ applications of Python. Below is an overview of the projects included in this re
 
 ### Project List:
 ### 1. Project Name: Number_Operations
-- Description: This program is code that takes user input, performs calculations and displays the results.
+- Description: This program is a code that takes user input, performs calculations and displays the results.
                The user inputs different types of values (strings, integers, decimals) and the appropriate
                operation is performed (concatenation or addition).
 - Technologies used: IDLE and Atom.
