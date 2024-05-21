@@ -47,7 +47,7 @@ applications of Python. Below is an overview of the projects included in this re
   
 ---
 
-### Contributing 
+# Contributing 
 If you are interested in contributing to any of the projects in this repository, please follow these
 guidelines:
 1. Fork the repository and create your branch from the main.
@@ -58,11 +58,11 @@ guidelines:
 
 ---
 
-### License
+# License
 This repository is licensed under the MIT License.
 
 ---
 
-### Contact 
+# Contact 
 If you have any questions or feedback regarding any of the projects in this repository, feel
 free to contact me at sibiyalethukuthula04@gmail.com
